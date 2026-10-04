@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5330226814",
+    "project_id": "vittapet-cp5",
+    "storage_bucket": "vittapet-cp5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5330226814:android:a8d148716c3df6ac31522f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOED-cx9tJl7vpz6w1OyMw05IdH4kH5mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
